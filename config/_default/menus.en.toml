@@ -1,0 +1,24 @@
+############# Thai navigation ##############
+
+# main menu
+[[main]]
+weight = 10
+name = "Home"
+
+[[main]]
+name = "Pricing"
+url = "pricing/"
+weight = 20
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 30
+  
+[[main]]
+name = "Contact Us"
+url = "contact/"
+weight = 40
+
+
+

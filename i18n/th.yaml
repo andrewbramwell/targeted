@@ -1,0 +1,74 @@
+- id: by
+  translation: by
+
+- id: admin
+  translation: Admin
+
+- id: most_popular
+  translation: ได้รับความนิยมมากที่สุด
+
+- id: recent_posts_of
+  translation: Recent posts of
+
+- id: related_posts
+  translation: Related posts
+
+- id: min_read
+  translation: Min Read
+
+- id: view_all_positions
+  translation: View All Positions
+
+- id: apply_now
+  translation: Apply Now
+
+- id: share_this_job
+  translation: "Share this job:"
+
+- id: other_jobs
+  translation: Other Jobs
+
+- id: all_jobs
+  translation: All Jobs
+  
+- id: fname
+  translation: First Name
+  
+- id: full_name
+  translation: ชื่อเต็ม
+  
+- id: lname
+  translation: Last Name
+  
+- id: email
+  translation: ที่อยู่อีเมล
+  
+- id: website
+  translation: ชื่อธุรกิจ
+  
+- id: message
+  translation: ข้อความของคุณ
+  
+- id: submit_now
+  translation: ส่งถึงเรา
+  
+- id: cv_note
+  translation: only doc, pdf file allowed &amp; file size will be less than 2MB
+  
+- id: upload_cv
+  translation: Upload CV
+
+- id: footer_menu_1_title
+  translation: Products
+
+- id: footer_menu_2_title
+  translation: Services
+
+- id: footer_menu_3_title
+  translation: Support
+
+- id: footer_menu_4_title
+  translation: Resources
+
+- id: footer_menu_5_title
+  translation: Other Pages
